@@ -51,9 +51,8 @@ My bilingual personal website, bringing together professional experience, projec
 
 Co-founded **JogarAirsoft**, an airsoft-related project. This was part of my earlier entrepreneurial and collaborative experience. I am no longer actively involved in its development or operations.
 
-Related codebase: [Airsoft Fields (GitLab)](https://gitlab.com/KevinRamos/airsoft-fields).
+Related codebase: [Airsoft Fields (GitLab)](https://gitlab.com/KevinRamos/airsoft-fields). (private)
 
-> The related GitLab repository is linked here for context; ownership and specific code contributions should be verified before attributing them.
 
 ## Technical background
 
