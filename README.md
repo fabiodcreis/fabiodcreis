@@ -35,7 +35,7 @@ An interactive map platform focused on historical and alternative geopolitical s
 
 **Stack:** React · TypeScript · PostgreSQL · Supabase · Cloudflare
 
-🔗 [Explore EvolvingAtlas](https://evolvingatlas.com)
+🔗 [Explore EvolvingAtlas](https://github.com/fabiodcreis/evolvingatlas-showcase)
 
 > The application is publicly accessible; its source code is currently private.
 
@@ -49,9 +49,7 @@ My bilingual personal website, bringing together professional experience, projec
 
 ### 🎯 JogarAirsoft — Co-founder | Past project
 
-Co-founded **JogarAirsoft**, an airsoft-related project. This was part of my earlier entrepreneurial and collaborative experience. I am no longer actively involved in its development or operations.
-
-Related codebase: [Airsoft Fields (GitLab)](https://gitlab.com/KevinRamos/airsoft-fields). (private)
+Co-founded **JogarAirsoft.pt**, an airsoft-related project. This was part of my earlier entrepreneurial and collaborative experience. I am no longer actively involved in its development or operations.
 
 
 ## Technical background
