@@ -6,7 +6,7 @@
 
 **Building software, leading technical initiatives, and turning ideas into useful digital products.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-maker.evolvingatlas.com-0D9488?style=for-the-badge&logo=astro&logoColor=white)](https://freis.evolvingatlas.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-freis.evolvingatlas.com-0D9488?style=for-the-badge&logo=astro&logoColor=white)](https://freis.evolvingatlas.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiodcreis/)
 [![EvolvingAtlas](https://img.shields.io/badge/EvolvingAtlas-Explore-0F766E?style=for-the-badge&logo=googleearth&logoColor=white)](https://evolvingatlas.com)
 
